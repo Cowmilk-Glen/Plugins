@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Plugins:jar" />
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a82d5b0-14e9-467e-b2d4-8f7234e49fcd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MinecraftProject/src/main/java/play/projectnebula/secondplugin/MyFirstCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/MinecraftProject/src/main/java/play/projectnebula/secondplugin/MyFirstCommand.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1epoa1tqggymnhYO2wOc2t0iiAX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/TestServer/1.16.1/plugins" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Glenville\IdeaProjects\Plugins\MinecraftProject\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mc" type="JarApplication">
+      <option name="JAR_PATH" value="$USER_HOME$/Desktop/TestServer/1.16.1/spigot-1.16.1.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Glenville\Desktop\TestServer\1.16.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_211\jre" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a82d5b0-14e9-467e-b2d4-8f7234e49fcd" name="Default Changelist" comment="" />
+      <created>1595027954361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595027954361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="114" key="#Project_Structure" timestamp="1595028241816">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="447" y="114" key="#Project_Structure/0.0.3840.1080@0.0.3840.1080" timestamp="1595028241816" />
+    <state x="421" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595028261812">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="421" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1595028261812" />
+    <state x="697" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595028205879">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="697" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.3840.1080@0.0.3840.1080" timestamp="1595028205879" />
+    <state x="747" y="295" key="FileChooserDialogImpl" timestamp="1595028708274">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state x="747" y="295" key="FileChooserDialogImpl/0.0.3840.1080@0.0.3840.1080" timestamp="1595028708274" />
+    <state width="1874" height="292" key="GridCell.Tab.0.bottom" timestamp="1595028803204">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.0.bottom/0.0.3840.1080@0.0.3840.1080" timestamp="1595028803204" />
+    <state width="1874" height="292" key="GridCell.Tab.0.center" timestamp="1595028803203">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.0.center/0.0.3840.1080@0.0.3840.1080" timestamp="1595028803203" />
+    <state width="1874" height="292" key="GridCell.Tab.0.left" timestamp="1595028803203">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.0.left/0.0.3840.1080@0.0.3840.1080" timestamp="1595028803203" />
+    <state width="1874" height="292" key="GridCell.Tab.0.right" timestamp="1595028803203">
+      <screen x="0" y="0" width="3840" height="1080" />
+    </state>
+    <state width="1874" height="292" key="GridCell.Tab.0.right/0.0.3840.1080@0.0.3840.1080" timestamp="1595028803203" />
+  </component>
+</project>

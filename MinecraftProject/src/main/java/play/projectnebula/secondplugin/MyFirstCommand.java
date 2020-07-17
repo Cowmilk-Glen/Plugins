@@ -12,6 +12,7 @@ public class MyFirstCommand implements CommandExecutor {
 
     @Override
     public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args){
+        x = true;
         if(sender instanceof Player && args.length == 0){
             Player player = (Player) sender;
             player.sendMessage("LAKSHJJDKLASJDLKJAS");

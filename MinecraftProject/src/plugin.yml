@@ -1,0 +1,10 @@
+name: SecondPlugin
+version: 1.0-SNAPSHOT
+main: play.projectnebula.secondplugin.SecondPlugin
+api-version: 1.16
+authors: [Cowmilk]
+website: play.projectnebula.network
+commands:
+  newcom:
+    usage: /newcom <player>
+    description: hi
