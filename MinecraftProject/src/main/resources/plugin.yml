@@ -1,0 +1,10 @@
+name: SecondPlugin
+version: ${project.version}
+main: play.projectnebula.secondplugin.SecondPlugin
+api-version: 1.16
+authors: [Cowmilk]
+website: play.projectnebula.network
+commands:
+  newcom:
+    usage: /newcom <player>
+    description: Test Command
